@@ -16,3 +16,6 @@ class Solution {
                 res[i - 1][j - 1] = temp;
             }
         }
+         return res;
+    }
+}    
