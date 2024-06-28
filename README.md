@@ -1,4 +1,4 @@
-# LEETCODE IN JAVA
+# DSA IN JAVA
 
 •	Understand the Problem: Read the problem statement carefully and make sure you understand all the requirements, constraints, and edge cases.
 
